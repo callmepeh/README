@@ -10,10 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning SQL <br>🎯 
+<p align="left">✨ Creating bugs since 2023 <br>📚 I'm currently learning SQL <br>
+  
 ###
 
-<h2 align="left">I code with VSCODE </h2>
+<h2 align="left">I code with </h2>
 
 ###
 
