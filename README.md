@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro e eu sou estudante de Sistemas de Iformação na Universidade Federal do Piauí - SI/-\UFPI.<br>Tenho interesses nas áreas de computação aplicada a saúde, sistemas embarcados, arquitetura de computadores e estruturas de dados;</p>
+<p align="left">Meu nome é Pedro e eu sou estudante de Sistemas de Informação na Universidade Federal do Piauí - SI/-\UFPI.<br>Tenho interesses nas áreas de computação aplicada a saúde, sistemas embarcados, arquitetura de computadores e estruturas de dados;</p>
 
 ###
 
